@@ -1,0 +1,15 @@
+{
+    "name": "chaper2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "trick": "chrome https://www.baidu.com"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
