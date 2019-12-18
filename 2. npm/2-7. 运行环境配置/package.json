@@ -1,0 +1,17 @@
+{
+    "name": "chapter2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "cross-env NODE_ENV=development node index.js",
+        "build": "cross-env NODE_ENV=production node index.js",
+        "test": "cross-env NODE_ENV=test node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cross-env": "^6.0.3"
+    },
+    "a": 123
+}
