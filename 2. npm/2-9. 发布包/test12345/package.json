@@ -1,0 +1,17 @@
+{
+  "name": "testabcd1234",
+  "version": "1.0.1",
+  "description": "this is test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "bangbangji <2782170452@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
