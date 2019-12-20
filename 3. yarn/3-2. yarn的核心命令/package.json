@@ -1,0 +1,11 @@
+{
+  "name": "chapter3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "abc": "dir",
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
