@@ -1,0 +1,20 @@
+{
+  "name": "4-5. bower",
+  "homepage": "https://github.com/DuYi-Edu/DuYi-PackageManager",
+  "authors": [
+    "yuanjin <yuanjinmoke@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
